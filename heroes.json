@@ -1,0 +1,53 @@
+{
+  "heroes": [
+    {
+      "id": 1,
+      "name": "Первый герой",
+      "description": "Первый герой в рейтинге!",
+      "element": "fire"
+    },
+    {
+      "id": "984d8b84-3dfd-4854-aebf-709d3c797d0a",
+      "name": "Евгения ",
+      "description": "все что хочу",
+      "element": "water"
+    },
+    {
+      "id": "20e59788-ba8c-4f94-839b-04e9f1958f03",
+      "name": "zbfd",
+      "description": "cbxfbd",
+      "element": "water"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    { 
+      "id": "name",
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "id": "water",
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "id":"wind",
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    { "id":"earth",
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
